@@ -1,0 +1,2 @@
+E:\ \oopProject\bin\Debug\WindowsFormsApplication11.exe.config
+E:\ \oopProject\obj\Debug\ResolveAssemblyReference.cache
